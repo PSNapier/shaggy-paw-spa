@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+Simple static business landing page with info and contact. Vanilla Laravel w/ tailwind.
